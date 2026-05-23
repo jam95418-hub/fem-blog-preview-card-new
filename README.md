@@ -2,7 +2,7 @@
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋 
 
 Thanks for checking out this front-end coding challenge.
 
